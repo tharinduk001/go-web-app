@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: kalharacodes/go-web-app
   pullPolicy: IfNotPresent
-  tag: "19598485890"
+  tag: "19598810608"
 
 ingress:
   enabled: false
